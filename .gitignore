@@ -1,0 +1,4 @@
+# Local setup progress from start-here.sh — machine-specific, do not commit
+.setup-progress
+logs/*
+!.gitkeep
